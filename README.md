@@ -2,7 +2,7 @@
 
 # Hi there
 
-My name is [Your Name], and my pronouns are [Your Pronouns].
+My name is Mediaeater 
 
 ## Quick Links
 
